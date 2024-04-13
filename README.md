@@ -65,6 +65,6 @@ for t in range(5):
 
 ### Unicode
 ```python
-code = ord('S')
-character = chr(code)
+number = ord('S')
+character = chr(number)
 ```
