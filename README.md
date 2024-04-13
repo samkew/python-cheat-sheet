@@ -32,7 +32,7 @@ else:
 ```python
 string = "Sam".lower()
 string = string.upper()
-
+first_character = string[0]
 ```
 
 ## Custom Functions
