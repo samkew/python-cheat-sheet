@@ -41,7 +41,7 @@ def makeBananaYellow(banana):
     return "yellow " + banana
 ```
 
-## For Loops
+## For/While Loops
 ```python
 for a in 'Sam':
   print(a)
@@ -49,6 +49,10 @@ for a in 'Sam':
 
 ```python
 for m in range(10):
+
+while True:
+
+while a == 1:
 
 ```
 
