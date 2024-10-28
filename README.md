@@ -3,6 +3,10 @@
 ## Variables
 ```python
 a = input()
+
+b = 1
+b = b + 1
+b++
 ```
 
 ## Global Function
