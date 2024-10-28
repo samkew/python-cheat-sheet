@@ -6,7 +6,7 @@ a = input()
 
 b = 1
 b = b + 1
-b++
+b += 1
 ```
 
 ## Global Function
