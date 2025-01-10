@@ -52,6 +52,12 @@ for a in 'Sam':
 ```
 
 ```python
+fruits = ['apple', 'pear', 'orange']
+for fruit in fruits:
+  print(fruit)
+```
+
+```python
 for m in range(10):
 
 while True:
